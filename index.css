@@ -8,3 +8,66 @@ body {
   height: 400vh;
   background-color:rgb(38, 38, 38);
 }
+
+.head {
+  width: 10%;
+  position: absolute;
+  top: 30%;
+  left: 47%;
+}
+
+.torso {
+  width: 15%;
+  position: absolute;
+  top: 38%;
+  left: 44.5%;
+}
+
+.upper.arm {
+  width: 9%;
+  position: absolute;
+}
+.lower.arm {
+  width: 4%;
+  position: absolute;
+}
+
+.left.upper.arm {
+  top: 38%;
+  left: 39%;
+}
+.left.lower.arm {
+  top: 47%;
+  left: 39%;
+}
+
+.right.upper.arm {
+  top: 38%;
+  left: 56%;
+}
+.right.lower.arm {
+  top: 47%;
+  left: 61%;
+}
+
+.leg {
+  width: 6%;
+  position: absolute;
+}
+
+.left.upper.leg {
+  top: 58%;
+  left: 44.5%;
+}
+.right.upper.leg {
+  top: 58%;
+  left: 53.5%;
+}
+.left.lower.leg {
+  top: 66%;
+  left: 44.5%;
+}
+.right.lower.leg {
+  top: 66%;
+  left: 53.5%;
+}
